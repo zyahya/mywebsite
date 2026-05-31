@@ -60,5 +60,8 @@ Credits:
 	Icons:
 		Font Awesome (fontawesome.io)
 
+	Favicon:
+		"Letter Z 4" from the Twemoji Emojis collection by Twitter, used under the MIT License.
+
 	Other:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
